@@ -1,0 +1,12 @@
+{
+	"image": "Menu_Parents",
+	"scale": 1,
+	"position": [
+		110,
+		10
+	],
+	"idle_anim": "M Parents Idle",
+	"confirm_anim": "M Dad Idle",
+	"flipX": false,
+	"noAntialiasing": false
+}

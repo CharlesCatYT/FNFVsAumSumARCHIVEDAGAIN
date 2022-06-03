@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AumSum_Dialogue.png">
+<SubTexture name="AUMSUM LOOP0000" x="0" y="0" width="286" height="333" frameX="0" frameY="0" frameWidth="286" frameHeight="333" />
+<SubTexture name="AUMSUM LOOP0001" x="286" y="0" width="286" height="333" frameX="0" frameY="0" frameWidth="286" frameHeight="333" />
+<SubTexture name="AUMSUM LOOP0002" x="0" y="333" width="286" height="333" frameX="0" frameY="0" frameWidth="286" frameHeight="333" />
+<SubTexture name="AUMSUM LOOP0003" x="286" y="333" width="286" height="333" frameX="0" frameY="0" frameWidth="286" frameHeight="333" />
+<SubTexture name="AUMSUM00000" x="0" y="666" width="286" height="333" frameX="0" frameY="0" frameWidth="286" frameHeight="333" />
+</TextureAtlas>

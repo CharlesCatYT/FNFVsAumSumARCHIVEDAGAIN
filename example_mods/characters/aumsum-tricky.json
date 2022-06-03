@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				231,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				90,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				114,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				50,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				40,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AumSumTricky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aumsum-tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		36
+	],
+	"camera_position": [
+		160,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

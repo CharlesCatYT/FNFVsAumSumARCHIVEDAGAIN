@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 4,
+		"stage": "cheater",
+		"player1": "bf",
+		"player2": "aumsum-3d",
+		"player3": null,
+		"events": [
+			[
+				184440,
+				[
+					[
+						"Opponent Fade",
+						"3",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cheating"
+	}
+}

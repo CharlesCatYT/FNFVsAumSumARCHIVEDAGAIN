@@ -1,0 +1,70 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "park-stage",
+		"player1": "bf",
+		"player2": "aumsum",
+		"player3": null,
+		"events": [
+			[
+				2718.75,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			],
+			[
+				5718.75,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			],
+			[
+				8718.75,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			],
+			[
+				11718.75,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			],
+			[
+				113625,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-no-speakers",
+		"bpm": 160,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Science"
+	}
+}

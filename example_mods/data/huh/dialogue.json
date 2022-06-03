@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "beep bop!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY!!! NO FAIR!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bee poo pee?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That dosnet make sense! How can you lose because you sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo ba skee pee bopeebepboepobpeobpeo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok. waht is it now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this blue haried kiddo is trespassing in our own world"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bee poo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, i'll deal with this little guy then"
+		},
+		{
+			"expression": "talk",
+			"text": "STOP",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"expression": "confused",
+			"text": "boop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "you are trespassin world",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he says you not allowed here!"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bsissoklhauig uigagguguiguikuirvuiruisncuicsnhuiscdnuihnuidcsxnhuicsah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "you not welcome here",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bepbepbpebpepbepbpebpepeboepboepobpeobe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap betle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets make a deal"
+		},
+		{
+			"expression": "talk",
+			"text": "i win = you leave",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"expression": "talk",
+			"text": "you win = you gonna disrupt this world!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"expression": "confused",
+			"text": "boop bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "here go nothin",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.315,
+			"portrait": "fard"
+		},
+		{
+			"expression": "talk",
+			"text": "wit the power of fard, I will win!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fard"
+		}
+	]
+}

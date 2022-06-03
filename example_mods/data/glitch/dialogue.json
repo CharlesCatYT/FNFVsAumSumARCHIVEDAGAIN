@@ -1,0 +1,201 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "beep bop!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "HEY!!! THATS UNFAIR!!!!!!!!!!!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "what"
+		},
+		{
+			"expression": "confused",
+			"text": "bep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Why did you die after the song?!?!?!?!? ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "what"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bo bep bep skeedepbop boppap ske bop pep *computer noises*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "fvghjklokijuuhbgvfcgbhjkihnbgvfgbhjkijhbgvfcghjuikjhbgvffc vgbhjkmmjnhbghjiuhgbhujhygvfgbhujhygbvhjikuhbgvhnjkuhgbhnjnkijhbgvbhnjuhygbvfbghnjmmnhbgvhnjnknhbghnjhghjuygtfhjuyhgtfghjuhygfvbhjkijuuhgbvbhjhgvfbhjkijuhgfvbhjkiuhgfvbnhjkiiuyhghjkhgfhjiuyhghjkijuhgfghjkijuhgfghjkoijuhgbvfbhjkioijuhygbvfbhnjuikuhyygbvhujikjuhbgvfgbhnjuikjuhbgvf bghnjikolkijuhnnbgv gbhnjikolkijnhbgvbhnjnkioijuhbgvfc  vaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa thats it",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "what"
+		},
+		{
+			"expression": "confused",
+			"text": "beep?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "aight what the fuck now",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "thunda"
+		},
+		{
+			"expression": "talk",
+			"text": "this blue-haired child is disrupting in our world",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "what"
+		},
+		{
+			"expression": "shocked",
+			"text": "                                                                                                       beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh well, im gonna try to destroy this little man then",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "thunda"
+		},
+		{
+			"expression": "talk",
+			"text": "STOP YOU MONSTERFVGHJUIKJUHYGBVFGHJUHYGVFgfvghjkjhbgvbnhjmkmjhgbvbhnjhgbvfcgbhjuhygvvbhjkiuyhgfvbhnjmiuhgvfgbhjuiujhygbvcbhnjmuiyhgtvvbnhjkiujhygvbhnjkiuhygf",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.01
+		},
+		{
+			"expression": "confused",
+			"text": "boop?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "you are disrupting this world",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "he said you arent allowed here",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "thunda"
+		},
+		{
+			"expression": "confused",
+			"text": "beep boop bsissoklhauig uigagguguiguikuirvuiruisncuicsnhuiscdnuihnuidcsxnhuicsahgfvbhnjkhbgvbhnjmkijnhbnjkiijuuhnbgvfgbhnjkijhbgvfgbhjikjuhygbvfhyyujikjkuhygvfyhujijhygtfvcgttyhujhygtfvcgyhuioikjuhygtfvghyujiklkijuhygtfrdcvgbbhbjkjhgvfhyujikjuhygvfcgbhnjkijuhygbvbnjmk,ljuuhgbvfbhnjkijuhygtf",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.01
+		},
+		{
+			"expression": "talk",
+			"text": "you cant be welcome if you're in here",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bepbepbpebpepbepbpebpepeboepboepobpeobe",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "a rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "thunda"
+		},
+		{
+			"expression": "talk",
+			"text": "ok lets make a deal",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "thunda"
+		},
+		{
+			"expression": "talk",
+			"text": "i win = you leave",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "you win = you are gonna do what you did in Disruption",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "beep boop bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "here goes nearly nothing",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep!!!!!!!!!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.315
+		},
+		{
+			"expression": "talk",
+			"text": "with the power of stock images, i must win!!!!!!!!!",
+			"boxState": "normal",
+			"portrait": "thunda",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep beep!"
+		}
+	]
+}

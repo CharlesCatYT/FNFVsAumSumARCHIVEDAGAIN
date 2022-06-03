@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "AUMSUM LOOP",
+			"idle_name": "AUMSUM0"
+		}
+	],
+	"image": "AumSum_Dialogue"
+}

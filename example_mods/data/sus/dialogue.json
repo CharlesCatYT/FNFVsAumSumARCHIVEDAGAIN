@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH WOW! YOU ACTUALLY BEAT THE SONG!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BOOP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! Who is this?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know him, it is boyfriend from the hit game Friday Night Funkin'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY! I heard about you! How bout we sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop bop skepoop bee pee po"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

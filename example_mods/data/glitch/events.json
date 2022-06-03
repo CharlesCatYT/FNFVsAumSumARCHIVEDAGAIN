@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "bruh",
+		"player1": "bf",
+		"player2": "aumsum-png",
+		"player3": null,
+		"events": [
+			[
+				2875,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Glitch"
+	}
+}

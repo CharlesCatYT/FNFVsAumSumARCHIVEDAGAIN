@@ -1,0 +1,80 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "competition",
+		"player1": "bf",
+		"player2": "aumsum-older-spritesheet",
+		"player3": null,
+		"events": [
+			[
+				19200,
+				[
+					[
+						"Flash Camera (By BBPANZU)",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				38471.25,
+				[
+					[
+						"Flash Camera (By BBPANZU)",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				57678.75,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				76901.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				134505,
+				[
+					[
+						"Flash Camera (By BBPANZU)",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				134576.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Scientific"
+	}
+}

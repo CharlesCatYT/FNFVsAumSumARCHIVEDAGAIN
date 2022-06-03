@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angey idle"
+		},
+		{
+			"offsets": [
+				-42,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angey right"
+		},
+		{
+			"offsets": [
+				77,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angey left"
+		},
+		{
+			"offsets": [
+				-16,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angey down"
+		},
+		{
+			"offsets": [
+				-6,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angey up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AumSum_ExtraAngy",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "aumsum-angey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

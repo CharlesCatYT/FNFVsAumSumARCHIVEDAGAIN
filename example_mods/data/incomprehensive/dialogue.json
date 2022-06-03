@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.3,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bep?"
+		},
+		{
+			"speed": 0.3,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wh-Why?"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why did you do this to me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep bop skepoop po poo pee pop peop"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have made me reach my limit. You have ticked me off..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.125,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Too bad I have no choice..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "aumsum-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "G-Goodbye, little blue..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BEEP!"
+		}
+	]
+}

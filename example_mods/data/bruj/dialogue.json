@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was fun"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no you lost!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you cant lose after you sing, it is against the laws of quantam mechanics"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "boop beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hEy gUYs What IS HApEnIN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "UMMMMM UHHHHHH MMMMMMM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HE IS TRESPASSING OUR WORLD!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BOOP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK I WIll DeaL WiTh HiM"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if I wIn, YoU GET OUt oF hEREE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you Win, We GET mAD!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsus",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT DONT-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's tIMEE To Go GOD MODE"
+		}
+	]
+}

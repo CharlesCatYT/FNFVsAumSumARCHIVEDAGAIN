@@ -1,0 +1,40 @@
+{
+	"storyName": "It's AumSum Time! (Cancelled/Old)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "aumsum",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Smart Learning",
+			"aumsum-old",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Scientific",
+			"aumsum-old",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"aumsum-old",
+		"bf",
+		"gf"
+	],
+	"weekName": "Cancelled/Old Week"
+}

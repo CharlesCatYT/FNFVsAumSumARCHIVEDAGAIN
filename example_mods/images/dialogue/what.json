@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		100
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				1
+			],
+			"idle_offsets": [
+				-3,
+				-6
+			],
+			"loop_name": "AUMFART LOOP",
+			"idle_name": "AUMFART0"
+		}
+	],
+	"image": "what_Dialogue"
+}

@@ -1,0 +1,103 @@
+{
+	"storyName": "joke week / what",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "what",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"What",
+			"aumsum-bf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Sus",
+			"aumsus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Balls",
+			"dave",
+			[
+				0,
+				115,
+				255
+			]
+		],
+		[
+			"Oh My God Can You Just Leave Already",
+			"aumsum-bf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Glitch",
+			"aumsum-thunda",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"What If",
+			"aumsus",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"IP",
+			"i-have-your-ip-address",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Bruj",
+			"i-have-your-ip-address",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"huh",
+			"aumsum-png",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "what"
+}

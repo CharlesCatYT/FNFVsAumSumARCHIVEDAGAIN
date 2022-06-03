@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow! You're pretty good at this are you little blue?",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "aumsum",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey. That was actually a pretty cool name. Now I will refer to you as little blue!"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, better get going now.",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep! Bop skep boop poo bee!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Wha-what? You want to go again?!",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Alright then. Besides, that practice wasn't even enough for me.",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop poo bee ske bop beep bo poob boop beep peeb bo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Actually, he is my boyfriend who is dating me, the daughter of an ex-rockstar?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait. I heard something about that a while ago spreading around the town.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "You must be that guy right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That is cool to know! Anyway, you still up for that rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright. Let's go little blue!",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Whatever that means, you said it!",
+			"boxState": "normal",
+			"portrait": "aumsum",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok! I have a question. Y'know what time it is?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "It's time to get fun-KAY!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aumsum_portrait.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue anim0000" x="10" y="10" width="559" height="499"/>
+	<SubTexture name="dialogue anim0001" x="579" y="10" width="559" height="499"/>
+	<SubTexture name="dialogue anim0002" x="1148" y="10" width="559" height="499"/>
+	<SubTexture name="dialogue anim0003" x="10" y="519" width="559" height="499"/>
+	<SubTexture name="dialogue anim0004" x="579" y="519" width="559" height="499"/>
+	<SubTexture name="dialogue anim0005" x="10" y="519" width="559" height="499"/>
+	<SubTexture name="dialogue anim0006" x="1148" y="519" width="559" height="499"/>
+	<SubTexture name="dialogue anim0007" x="10" y="1028" width="559" height="499"/>
+</TextureAtlas>

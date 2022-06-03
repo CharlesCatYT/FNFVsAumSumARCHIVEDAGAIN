@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "park-stage",
+		"player1": "bf",
+		"player2": "aumsum-bruh",
+		"player3": null,
+		"events": [
+			[
+				41411.7647058824,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 255,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "IP"
+	}
+}

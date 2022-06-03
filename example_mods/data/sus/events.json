@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "bruh",
+		"player1": "bf",
+		"player2": "aumsum-bruh",
+		"player3": null,
+		"events": [
+			[
+				33313.6363636364,
+				[
+					[
+						"Hey!",
+						"something else",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Sus"
+	}
+}

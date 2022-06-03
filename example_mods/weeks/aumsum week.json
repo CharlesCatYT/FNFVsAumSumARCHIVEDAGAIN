@@ -1,0 +1,58 @@
+{
+	"storyName": "What if everyone was a Rapper?",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "aumsum",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Awesome",
+			"aumsum",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Science",
+			"aumsum",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Annoyance",
+			"aumsum-angry",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Incomprehensive",
+			"aumsum-angey",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"aumsum",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

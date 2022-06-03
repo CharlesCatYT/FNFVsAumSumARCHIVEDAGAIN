@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AumSum_Angry_Portrait.png">
+<SubTexture name="AUMSUMANGRY LOOP0000" x="361" y="370" width="361" height="369" frameX="-17" frameY="-20" frameWidth="397" frameHeight="389" />
+<SubTexture name="AUMSUMANGRY LOOP0001" x="0" y="0" width="361" height="370" frameX="-17" frameY="-19" frameWidth="397" frameHeight="389" />
+<SubTexture name="AUMSUMANGRY LOOP0002" x="361" y="0" width="361" height="370" frameX="-17" frameY="-19" frameWidth="397" frameHeight="389" />
+<SubTexture name="AUMSUMANGRY LOOP0003" x="722" y="0" width="361" height="370" frameX="-17" frameY="-19" frameWidth="397" frameHeight="389" />
+<SubTexture name="AUMSUMANGRY LOOP0004" x="0" y="370" width="361" height="370" frameX="-17" frameY="-19" frameWidth="397" frameHeight="389" />
+<SubTexture name="AUMSUMANGRY00000" x="0" y="370" width="361" height="370" frameX="-17" frameY="-19" frameWidth="397" frameHeight="389" />
+</TextureAtlas>

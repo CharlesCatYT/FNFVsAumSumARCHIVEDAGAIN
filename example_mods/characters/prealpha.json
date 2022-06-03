@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				3
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "aumsum green idle"
+		},
+		{
+			"offsets": [
+				165,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aumsum green left"
+		},
+		{
+			"offsets": [
+				-138,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aumsum green right"
+		},
+		{
+			"offsets": [
+				-20,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "aumsum green down"
+		},
+		{
+			"offsets": [
+				-36,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aumsum green up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ogaumsum",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "aumsum",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

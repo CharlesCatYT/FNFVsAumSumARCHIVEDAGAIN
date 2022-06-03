@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AumSus_Portrait.png">
+<SubTexture name="AUMSUS TALK0000" x="0" y="0" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+<SubTexture name="AUMSUS TALK0001" x="271" y="0" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+<SubTexture name="AUMSUS TALK0002" x="542" y="0" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+<SubTexture name="AUMSUS TALK0003" x="0" y="350" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+<SubTexture name="AUMSUS TALK0004" x="271" y="350" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+<SubTexture name="AUMSUS00000" x="271" y="350" width="271" height="350" frameX="-7" frameY="-8" frameWidth="307" frameHeight="358" />
+</TextureAtlas>

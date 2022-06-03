@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AumSum_ExtraAngy.png">
+<SubTexture name="angey idle0000" x="996" y="1288" width="534" height="589" frameX="-13" frameY="-3" frameWidth="551" frameHeight="593" />
+<SubTexture name="angey idle0001" x="996" y="1288" width="534" height="589" frameX="-13" frameY="-3" frameWidth="551" frameHeight="593" />
+<SubTexture name="angey idle0002" x="996" y="1288" width="534" height="589" frameX="-13" frameY="-3" frameWidth="551" frameHeight="593" />
+<SubTexture name="angey idle0003" x="471" y="679" width="518" height="609" frameX="-15" frameY="-2" frameWidth="538" frameHeight="615" />
+<SubTexture name="angey idle0004" x="471" y="679" width="518" height="609" frameX="-15" frameY="-2" frameWidth="538" frameHeight="615" />
+<SubTexture name="angey idle0005" x="1892" y="606" width="497" height="603" frameX="-28" frameY="-8" frameWidth="537" frameHeight="628" />
+<SubTexture name="angey idle0006" x="0" y="1288" width="506" height="600" frameX="-38" frameY="-20" frameWidth="570" frameHeight="647" />
+<SubTexture name="angey idle0007" x="0" y="1288" width="506" height="600" frameX="-38" frameY="-20" frameWidth="570" frameHeight="647" />
+<SubTexture name="angey idle0008" x="0" y="1288" width="506" height="600" frameX="-38" frameY="-20" frameWidth="570" frameHeight="647" />
+<SubTexture name="angey idle0009" x="0" y="1288" width="506" height="600" frameX="-38" frameY="-20" frameWidth="570" frameHeight="647" />
+<SubTexture name="angey right0000" x="1014" y="1888" width="519" height="540" frameX="-58" frameY="-2" frameWidth="599" frameHeight="560" />
+<SubTexture name="angey right0001" x="506" y="1888" width="508" height="548" frameX="-62" frameY="-1" frameWidth="599" frameHeight="560" />
+<SubTexture name="angey right0002" x="2395" y="1148" width="492" height="559" frameX="-63" frameY="0" frameWidth="599" frameHeight="560" />
+<SubTexture name="angey right0003" x="2395" y="575" width="502" height="573" frameX="-78" frameY="-1" frameWidth="599" frameHeight="580" />
+<SubTexture name="angey left0000" x="1435" y="0" width="457" height="606" frameX="-13" frameY="-4" frameWidth="638" frameHeight="620" />
+<SubTexture name="angey left0001" x="0" y="679" width="471" height="609" frameX="-33" frameY="-2" frameWidth="587" frameHeight="619" />
+<SubTexture name="angey left0002" x="506" y="1288" width="490" height="599" frameX="-8" frameY="-8" frameWidth="513" frameHeight="611" />
+<SubTexture name="angey left0003" x="1892" y="0" width="503" height="606" frameX="-23" frameY="0" frameWidth="547" frameHeight="614" />
+<SubTexture name="angey up0000" x="0" y="0" width="462" height="679" frameX="-22" frameY="-20" frameWidth="501" frameHeight="703" />
+<SubTexture name="angey up0001" x="462" y="0" width="482" height="667" frameX="-17" frameY="-10" frameWidth="510" frameHeight="684" />
+<SubTexture name="angey up0002" x="944" y="0" width="491" height="665" frameX="-20" frameY="-20" frameWidth="528" frameHeight="687" />
+<SubTexture name="angey down0000" x="0" y="1888" width="506" height="571" frameX="-11" frameY="-21" frameWidth="526" frameHeight="598" />
+<SubTexture name="angey down0001" x="2395" y="0" width="505" height="575" frameX="-6" frameY="-5" frameWidth="519" frameHeight="588" />
+<SubTexture name="angey down0002" x="1530" y="1288" width="510" height="589" frameX="-6" frameY="-3" frameWidth="520" frameHeight="596" />
+</TextureAtlas>

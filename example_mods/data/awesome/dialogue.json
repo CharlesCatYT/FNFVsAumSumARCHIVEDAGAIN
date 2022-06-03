@@ -1,0 +1,341 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "On one fine sunny day...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright doggy. I'm gonna go to the park for a while, you wanna come with me?",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok then. Let's go!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Then, they reached the park...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "What a nice day, don't you think?",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, what's this?",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "There it was. The banner for the park's talent show. AumSum thought he can show his talent for the world to see.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "Cool! I'm gonna sign up! Wait here doggy. Ok?!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "AumSum signed up for the show. He picked singing to show to everyone in the park!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait... I don't know how to sing!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Unfortunately for our AumSum, he is now trapped in a pickle. He didn't know how to sing greatly. He look around the park asking people for practice...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "But unfortunately, no avail came to him...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "That is... until he bumped into a certain somebody...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "no-one"
+		},
+		{
+			"expression": "talk",
+			"text": "OOuhgfh!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "HEY! WATCH WHERE YOUR GOI-",
+			"boxState": "angry",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum-angry"
+		},
+		{
+			"expression": "shocked",
+			"text": "BWAP!",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "W-who are you?",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh?!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.09,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep bop bap bep skepoop",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't underSTAND what you are saying...",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "confused",
+			"text": "BEEP Bap sko poop bop beep",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Listen, I don't know what you want... But you seem like you are wasting my precious time...",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "confused",
+			"text": "You know he is trying to say something...",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, who are you?!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "You see this blue haired guy in front of you...",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah... What is so special about him?",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Well , he is actually my Boyfriend.",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "He is?!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mind if you move along. I have to find somebody to practice singin with.",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep! Bop skoop poop beep boop bo pee beep peep.",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He wants you to rap with him.",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's all he wants?!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait. He's holding a microphone...",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "excited",
+			"text": "Boop!",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "This is a great oppurtunity to practice singing!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "And what is it that you are practicing for?",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "The park's talent show which I specifically signed up for!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok then. Let's begin the rap battle.",
+			"boxState": "normal",
+			"sound": "gf_d",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, how about sing a little song...",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "bf_d",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok! Sounds great!",
+			"boxState": "normal",
+			"sound": "aumsum_d",
+			"speed": 0.05,
+			"portrait": "aumsum"
+		}
+	]
+}

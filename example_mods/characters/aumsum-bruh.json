@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				53
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bruh idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bruh right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bruh left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				179
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bruh up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bruh down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aumsum_BRUH",
+	"position": [
+		-20,
+		280
+	],
+	"healthicon": "i-have-your-ip-address",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

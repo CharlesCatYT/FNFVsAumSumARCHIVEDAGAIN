@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pingu idle dance"
+		},
+		{
+			"offsets": [
+				-49,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pingu sing left"
+		},
+		{
+			"offsets": [
+				90,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pingu sing down"
+		},
+		{
+			"offsets": [
+				-145,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pingu sing up"
+		},
+		{
+			"offsets": [
+				-180,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pingu sing right"
+		},
+		{
+			"offsets": [
+				-60,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "pingu hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pingu_what",
+	"position": [
+		-160,
+		300
+	],
+	"healthicon": "pingu",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		34,
+		44
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

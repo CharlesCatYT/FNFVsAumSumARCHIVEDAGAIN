@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What are you doing here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo skep bopskepsoopopoopsepspspsps"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you-you challenge me to rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bopebksokebsokbspoesbbpkebkosobopesbkop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok then"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets go"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you said it"
+		}
+	]
+}

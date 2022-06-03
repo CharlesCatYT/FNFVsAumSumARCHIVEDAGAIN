@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "park-stage",
+		"player1": "bf",
+		"player2": "aumsum",
+		"player3": null,
+		"events": [
+			[
+				13846.1538461538,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14307.6923076923,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-no-speakers",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Awesome"
+	}
+}
